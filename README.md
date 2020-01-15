@@ -6,7 +6,7 @@ leetcode 养成计划，一步步走向超神，深知一个人力量过于渺�
 
 [![中国官网](https://static.leetcode-cn.com/cn-mono-assets/production/head/f2ece5fe978d056f5a425ad3387216ee.svg)](https://leetcode-cn.com/)
 
-<a href="https://leetcode.com/" rel="nofollow"><img width="100" height="auto" src="https://camo.githubusercontent.com/fec79751ad572ec57c16d527df71b5f4d2d68c77/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f7075626c69632f7765627061636b5f62756e646c65732f696d616765732f4c656574436f64655f6e61762e3464393430636137322e706e67" style="max-width:100%;background: #000;border-radius: 13px;"></a>
+<a href="https://leetcode.com/" rel="nofollow"><img width="100" height="auto" src="https://camo.githubusercontent.com/fec79751ad572ec57c16d527df71b5f4d2d68c77/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f7075626c69632f7765627061636b5f62756e646c65732f696d616765732f4c656574436f64655f6e61762e3464393430636137322e706e67" style="max-width:100%;background:#000;border-radius:13px;"></a>
 
 # 问题列表
 
